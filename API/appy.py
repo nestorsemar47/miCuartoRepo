@@ -37,3 +37,5 @@ def get_warriors_got():
 
 
 Ok nuevo cambio desde rama tarea/06
+
+    ok nuevo cambio desde mi rama local tarea/07
